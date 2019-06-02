@@ -1,4 +1,7 @@
 # Changelog
+## v1.0.4
+* Added Command `newreportschanel`, command when triggered will look for a `reportschannel` if none found it will create a new `reportschannel`.
+* Edited Report Command, if there is no `reportschannel` found the bot will no longer create one but will reply and say that it cannot find the channel and the you can create one using the `newreportschannel` command.
 ## v1.0.3
 * Edited report command so that it will actually send the report after creating the new reports channel
 ## v1.0.2
