@@ -1,4 +1,6 @@
 # Changelog
+## v1.0.3
+* Edited report command so that it will actually send the report after creating the new reports channel
 ## v1.0.2
 * Edited Help Command to include new command, `changelog` in help embeds.
 ## v1.0.1
