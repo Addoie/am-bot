@@ -1,4 +1,6 @@
 # Changelog
+## V1.0.6
+* Added command `die` which will restart bot, checks for permission level `ADMINISTRASTOR`.
 ## v1.0.5
 * Edited `newreportschannel` to check for permission level `MANAGE_CHANNELS` when triggered, if the user doesn't have permission it won't allow them to use the command.
 ## v1.0.4
