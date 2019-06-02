@@ -1,6 +1,6 @@
 # Changelog
 ## v1.0.2
-* Edited Help Command to include new command `changelog` in help embeds.
+* Edited Help Command to include new command, `changelog` in help embeds.
 ## v1.0.1
 * Added command `changelog`, command when triggered will give user the link to this document.
 ## June 2, 2019 v1.0.0
