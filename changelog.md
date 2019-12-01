@@ -1,4 +1,7 @@
 # Changelog
+## v2.0.0
+* Fixed the Ban and Kick commands to say the person has been kicked/banned in the channel, DMs the user being kicked/banned and also fixed the modlog embeds for them.
+* Added Command`warn` (Not Automated) but it does send them a message letting them know they have been warned and sends a warning embed in `wChannel`.
 ## V1.0.6
 * Added command `die` which will restart bot, checks for permission level `ADMINISTRASTOR`.
 ## v1.0.5
